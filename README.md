@@ -6,7 +6,11 @@ This repository is basically my personal practice ground. It's not a showcase of
 
 I've tried to keep things clear and well-commented, so whether you're a beginner or just looking for a refresher, I hope you find something useful here.
 
-Feel free to explore and use anything you find helpful! And if you have any questions or suggestions, don't hesitate to let me know.
+Feel free to explore and use anything you find helpful! And if you have any questions or suggestions, don't hesitate to reach out.
 
-Happy coding!✌️
+You can connect with me on:
+[Instagram](https://www.instagram.com/jkm_jatin/)
+| [LinkedIn](https://www.linkedin.com/in/jkmjatin/)
+
+Happy coding! ✌️
 ---
