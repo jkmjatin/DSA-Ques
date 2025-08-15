@@ -9,8 +9,7 @@ I've tried to keep things clear and well-commented, so whether you're a beginner
 Feel free to explore and use anything you find helpful! And if you have any questions or suggestions, don't hesitate to reach out.
 
 >You can connect with me on:
-[Instagram](https://www.instagram.com/jkm_jatin/)
-| [LinkedIn](https://www.linkedin.com/in/jkmjatin/)
+[Instagram](https://www.instagram.com/jkm_jatin/) | [LinkedIn](https://www.linkedin.com/in/jkmjatin/)
 
 Happy coding! ✌️
 ---
