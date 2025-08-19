@@ -1,4 +1,4 @@
-// check if a given number is even or odd
+// objective: check if a given number is even or odd
 
 // given number: 33
 
